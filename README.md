@@ -5,4 +5,6 @@ This is the second problem we were tasked to solve in our apprenticeship, and it
 
 This was also the first day where I have not used Visual Studio in this apprenticeship. I had quickly learnt to dislike both Visual Studio and the Windows system as it was configured by my vocational school, so I started bringing my own Linux system to school and now use Kate and the GCC C++ compiler (hence the comment at the bottom of the .cpp file).
 
+We did not learn about loops until quite a bit later, version charlie is something I had done in my free time for educational purposes.
+
 This project has been uploaded for archiving purposes.
