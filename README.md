@@ -7,4 +7,4 @@ This was also the first day where I have not used Visual Studio in this apprenti
 
 We did not learn about loops until quite a bit later, version charlie is something I had done in my free time for educational purposes.
 
-This project has been uploaded for archiving purposes.
+This project has been uploaded primarily for archiving purposes.
